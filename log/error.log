@@ -45,3 +45,76 @@
 [Mon Feb 25 05:18:10 2013] [error] [client 66.249.73.214] File does not exist: /home/patricks/public/keydb.net/public/Apollo
 [Mon Feb 25 08:10:17 2013] [error] [client 100.43.83.134] File does not exist: /home/patricks/public/keydb.net/public/robots.txt
 [Mon Feb 25 08:10:18 2013] [error] [client 100.43.83.134] File does not exist: /home/patricks/public/keydb.net/public/robots.txt
+[Mon Feb 25 09:38:06 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 09:40:01 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 09:40:28 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 09:40:42 2013] [error] [client 66.252.65.146] script '/home/patricks/public/keydb.net/public/flowplayer5/home.php' not found or unable to stat
+[Mon Feb 25 09:40:43 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 09:41:00 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/flowplayer5/hotm.html
+[Mon Feb 25 09:41:00 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 09:43:47 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 10:42:50 2013] [error] [client 66.249.73.214] File does not exist: /home/patricks/public/keydb.net/public/robots.txt
+[Mon Feb 25 10:42:50 2013] [error] [client 66.249.73.214] File does not exist: /home/patricks/public/keydb.net/public/Apollo
+[Mon Feb 25 10:44:29 2013] [error] [client 66.252.65.146] script '/home/patricks/public/keydb.net/public/flowplayer5/home.php' not found or unable to stat
+[Mon Feb 25 10:44:29 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 10:44:36 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 10:45:13 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 10:57:40 2013] [error] [client 66.249.73.212] File does not exist: /home/patricks/public/keydb.net/public/robots.txt
+[Mon Feb 25 14:13:53 2013] [error] [client 66.249.73.212] File does not exist: /home/patricks/public/keydb.net/public/user_guide/urls.html
+[Mon Feb 25 14:17:45 2013] [error] [client 66.249.73.212] File does not exist: /home/patricks/public/keydb.net/public/user_guide/models.html
+[Mon Feb 25 14:20:56 2013] [error] [client 66.249.73.212] File does not exist: /home/patricks/public/keydb.net/public/user_guide/routing.html
+[Mon Feb 25 14:20:57 2013] [error] [client 66.249.73.212] File does not exist: /home/patricks/public/keydb.net/public/libraries
+[Mon Feb 25 14:33:49 2013] [error] [client 66.249.73.212] File does not exist: /home/patricks/public/keydb.net/public/user_guide/managing_apps.html
+[Mon Feb 25 14:33:50 2013] [error] [client 66.249.73.212] File does not exist: /home/patricks/public/keydb.net/public/user_guide/ancillary_classes.html
+[Mon Feb 25 14:38:45 2013] [error] [client 66.249.73.212] File does not exist: /home/patricks/public/keydb.net/public/user_guide/controllers.html
+[Mon Feb 25 14:43:20 2013] [error] [client 66.249.73.212] File does not exist: /home/patricks/public/keydb.net/public/user_guide/creating_libraries.html
+[Mon Feb 25 14:58:21 2013] [error] [client 66.249.73.212] File does not exist: /home/patricks/public/keydb.net/public/user_guide/libraries/session.html
+[Mon Feb 25 15:12:13 2013] [error] [client 66.249.73.212] script '/home/patricks/public/keydb.net/public/user_guide/libraries/image_lib.php' not found or unable to stat
+[Mon Feb 25 15:17:14 2013] [error] [client 66.249.73.212] File does not exist: /home/patricks/public/keydb.net/public/user_guide/libraries/database.html
+[Mon Feb 25 15:22:37 2013] [error] [client 66.249.73.212] File does not exist: /home/patricks/public/keydb.net/public/user_guide/libraries/profiler.html
+[Mon Feb 25 15:27:37 2013] [error] [client 66.249.73.212] File does not exist: /home/patricks/public/keydb.net/public/user_guide/libraries/validation.html
+[Mon Feb 25 15:48:36 2013] [error] [client 66.249.73.212] File does not exist: /home/patricks/public/keydb.net/public/user_guide/helpers/compatibility_helper.html
+[Mon Feb 25 15:59:54 2013] [error] [client 66.249.73.212] File does not exist: /home/patricks/public/keydb.net/public/game
+[Mon Feb 25 16:10:05 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 16:10:37 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 16:10:59 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 16:11:00 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 16:11:03 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 16:12:10 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 16:12:15 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 16:20:56 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 16:20:57 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 16:21:09 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 16:21:16 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 16:21:28 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 16:21:59 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/staticpages
+[Mon Feb 25 16:21:59 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 16:22:09 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/index.phpstaticpages
+[Mon Feb 25 16:22:09 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 16:22:15 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 16:22:48 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 16:22:49 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 16:22:54 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 16:23:57 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 16:23:57 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 16:23:59 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 16:24:46 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 16:24:47 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 16:26:29 2013] [error] [client 66.252.65.146] PHP Parse error:  syntax error, unexpected '$route' (T_VARIABLE) in /home/patricks/public/keydb.net/public/application/config/routes.php on line 43
+[Mon Feb 25 16:26:29 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 16:26:31 2013] [error] [client 66.252.65.146] PHP Parse error:  syntax error, unexpected '$route' (T_VARIABLE) in /home/patricks/public/keydb.net/public/application/config/routes.php on line 43
+[Mon Feb 25 16:26:31 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 16:26:41 2013] [error] [client 66.252.65.146] PHP Parse error:  syntax error, unexpected '$route' (T_VARIABLE) in /home/patricks/public/keydb.net/public/application/config/routes.php on line 43
+[Mon Feb 25 16:26:44 2013] [error] [client 66.252.65.146] PHP Parse error:  syntax error, unexpected '$route' (T_VARIABLE) in /home/patricks/public/keydb.net/public/application/config/routes.php on line 43
+[Mon Feb 25 16:26:44 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 16:27:31 2013] [error] [client 66.252.65.146] PHP Parse error:  syntax error, unexpected '$route' (T_VARIABLE) in /home/patricks/public/keydb.net/public/application/config/routes.php on line 43
+[Mon Feb 25 16:27:31 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 16:27:31 2013] [error] [client 66.252.65.146] PHP Parse error:  syntax error, unexpected '$route' (T_VARIABLE) in /home/patricks/public/keydb.net/public/application/config/routes.php on line 43
+[Mon Feb 25 16:27:31 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 16:27:46 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 16:27:48 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 16:28:15 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 16:28:18 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 16:28:40 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 16:28:42 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Mon Feb 25 16:28:45 2013] [error] [client 66.252.65.146] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
