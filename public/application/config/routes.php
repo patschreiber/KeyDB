@@ -37,9 +37,7 @@
 | in the URL cannot be matched to a valid route.
 |
 */
-
-$route['default_controller'] = 'StaticPages/view';
-$route['(:any)'] = 'StaticPages/view/$1'; 
+$route['default_controller'] = 'login';
 $route['404_override'] = '';
 
 
