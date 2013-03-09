@@ -5,5 +5,7 @@ class Site extends CI_Controller {
 		$data['page'] = 'home';
 		$this->load->view('templates/content', $data);
 	}
+	
+	
 }
 ?>

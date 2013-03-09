@@ -18,12 +18,14 @@ class Login extends CI_Controller {
 			);
 				
 			$this->session->set_userdata($data); //Adds $data to user session
-			redirect('site/home'); //Site controller, members area method
+			redirect('site/home'); //Site controller, home method
 		}
 		else {
-			$this->index('');	//Load login form again
+			$this->index();	//Load login form again - load method index()
+
 		}
 	}
+
 }
 
 ?>
