@@ -28,15 +28,17 @@ class Users_model extends CI_Model {
 	
 	public function insertUser() {
 		
-		$this->db->select('username');
-		$query = $this->db->get_where('users', array('username' => $username));
-		if($query->num_rows() <= 0) {
-				
-			echo '<div class= "warning">This Username is already taken</div>';
-		}
-		else {
-			
-		}
+		$newUserInfo = array (
+			'first_name' => $this->input->post('first_name'),
+			'last_name' => $this->input->post('last_name'),
+			'email' => $this->input->post('email'),
+			'username' => $this->input->post('username'),
+			'password' => md5($this->input->post('password')),
+			'active' => true
+		);
+		
+		$insert = $this->db->insert('users', $newUserInfo);
+		return $insert;
 	}
 	
 	public function deleteUser() {

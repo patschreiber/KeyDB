@@ -1,0 +1,1 @@
+<h1>You're now a member</h1>

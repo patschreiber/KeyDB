@@ -3,15 +3,16 @@
 class Login extends CI_Controller {
 	
 	function index() {
-		$data['page'] = 'login_form'; //main-content dynamically loaded in content template using login_form view
-		$this->load->view('templates/content', $data);
+		$data['page'] = 'login_form';
+		$this->load->view('templates/content', $data); 
 	}
 	
 	function validateLogin() {
-		$this->load->model('Users_model');
-		$query = $this->Users_model->LoginAuth();
+		$this->load->model('users_model');
+		$query = $this->users_model->LoginAuth();
 		
-		if($query == true) { //if true from model
+		if($query == true) {
+			
 			$data = array (
 				'username' => $this->input->post('username'),
 				'isLoggedIn' => true
@@ -22,8 +23,35 @@ class Login extends CI_Controller {
 		}
 		else {
 			$this->index();	//Load login form again - load method index()
-
 		}
+	}
+	
+	function createAccount() {
+		$this->load->library('form_validation');
+		//field name, error message, validation rules
+		
+		$this->form_validation->set_rules('email', 'Email', 'trim|required|valid_email|is_unique[users.email]'); //checks to see if valid email address
+		$this->form_validation->set_rules('first_name', 'First Name', 'trim|required');
+		$this->form_validation->set_rules('last_name', 'Last Name', 'trim|required');
+		$this->form_validation->set_rules('username', 'Username', 'trim|required|min_length[4]|is_unique[users.username]');
+		$this->form_validation->set_rules('password', 'Password', 'trim|required|min_length[6]|max_length[32]');
+		$this->form_validation->set_rules('password2', 'Password Confirmation', 'trim|required|matches[password]');
+		
+		if($this->form_validation->run() == false) {
+			$this->index();
+		}
+		else {
+			$this->load->model('users_model');
+			
+			if($query = $this->users_model->insertUser()) {
+				$data['page'] = 'signup_successful';
+				$this->load->view('templates/content', $data);
+			}
+			else {
+				$this->load->view('login_form');
+			}
+		}
+		
 	}
 
 }

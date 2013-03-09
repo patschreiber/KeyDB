@@ -1063,3 +1063,98 @@
 [Fri Mar 08 20:23:11 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
 [Fri Mar 08 20:26:00 2013] [error] [client 157.55.32.144] File does not exist: /home/patricks/public/keydb.net/public/robots.txt
 [Fri Mar 08 20:27:47 2013] [error] [client 157.55.32.144] File does not exist: /home/patricks/public/keydb.net/public/game
+[Fri Mar 08 20:47:16 2013] [error] [client 207.181.235.233] PHP Fatal error:  Call to undefined method Login::index() in /home/patricks/public/keydb.net/public/application/controllers/login.php on line 19, referer: http://keydb.net/index.php/homepage
+[Fri Mar 08 20:47:16 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 21:03:00 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 21:07:49 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 21:08:14 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 21:08:16 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 21:08:28 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 21:09:00 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 21:10:48 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 21:10:49 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 21:10:50 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 21:11:40 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 21:11:48 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 21:12:27 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 21:12:52 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 21:13:34 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 21:13:35 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 21:14:51 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 21:14:58 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 21:15:08 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 21:15:10 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 21:15:17 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 21:25:05 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 21:41:10 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 21:42:01 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 21:42:10 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 21:43:56 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 21:53:29 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 22:00:51 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 22:27:21 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/css/style.css, referer: http://keydb.net/index.php/login/validateLogin
+[Fri Mar 08 22:31:04 2013] [error] [client 207.181.235.233] PHP Parse error:  syntax error, unexpected 'form_input' (T_STRING), expecting ',' or ';' in /home/patricks/public/keydb.net/public/application/views/login_form.php on line 19, referer: http://keydb.net/index.php/login/
+[Fri Mar 08 22:43:00 2013] [error] [client 119.235.237.16] File does not exist: /home/patricks/public/keydb.net/public/robots.txt
+[Fri Mar 08 22:43:36 2013] [error] [client 119.235.237.75] File does not exist: /home/patricks/public/keydb.net/public/robots.txt
+[Fri Mar 08 23:01:53 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/css/style.css, referer: http://keydb.net/
+[Fri Mar 08 23:14:29 2013] [error] [client 207.181.235.233] PHP Parse error:  syntax error, unexpected ';' in /home/patricks/public/keydb.net/public/application/views/login_form.php on line 20
+[Fri Mar 08 23:14:30 2013] [error] [client 207.181.235.233] PHP Parse error:  syntax error, unexpected ';' in /home/patricks/public/keydb.net/public/application/views/login_form.php on line 20
+[Fri Mar 08 23:17:31 2013] [error] [client 207.181.235.233] PHP Parse error:  syntax error, unexpected '<' in /home/patricks/public/keydb.net/public/application/views/login_form.php on line 21
+[Fri Mar 08 23:22:47 2013] [error] [client 207.181.235.233] PHP Parse error:  syntax error, unexpected ';' in /home/patricks/public/keydb.net/public/application/views/login_form.php on line 21
+[Fri Mar 08 23:22:48 2013] [error] [client 207.181.235.233] PHP Parse error:  syntax error, unexpected ';' in /home/patricks/public/keydb.net/public/application/views/login_form.php on line 21
+[Fri Mar 08 23:23:32 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 23:24:49 2013] [error] [client 157.55.32.144] File does not exist: /home/patricks/public/keydb.net/public/robots.txt
+[Fri Mar 08 23:25:09 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 23:30:57 2013] [error] [client 100.43.83.134] File does not exist: /home/patricks/public/keydb.net/public/robots.txt
+[Fri Mar 08 23:37:07 2013] [error] [client 66.249.73.156] File does not exist: /home/patricks/public/keydb.net/public/robots.txt
+[Fri Mar 08 23:42:27 2013] [error] [client 207.181.235.233] PHP Fatal error:  Call to undefined method CI_Controller::Controller() in /home/patricks/public/keydb.net/public/application/controllers/site.php on line 5
+[Fri Mar 08 23:42:28 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 23:45:30 2013] [error] [client 207.181.235.233] PHP Fatal error:  Call to undefined method CI_Controller::Controller() in /home/patricks/public/keydb.net/public/application/controllers/site.php on line 5
+[Fri Mar 08 23:45:30 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 23:45:31 2013] [error] [client 207.181.235.233] PHP Fatal error:  Call to undefined method CI_Controller::Controller() in /home/patricks/public/keydb.net/public/application/controllers/site.php on line 5
+[Fri Mar 08 23:45:31 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 23:45:41 2013] [error] [client 207.181.235.233] PHP Fatal error:  Call to undefined method CI_Controller::Controller() in /home/patricks/public/keydb.net/public/application/controllers/site.php on line 5, referer: http://keydb.net/index.php/
+[Fri Mar 08 23:45:41 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 23:51:40 2013] [error] [client 207.181.235.233] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/patricks/public/keydb.net/public/application/controllers/site.php on line 6, referer: http://keydb.net/index.php/
+[Fri Mar 08 23:51:40 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 23:51:52 2013] [error] [client 207.181.235.233] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/patricks/public/keydb.net/public/application/controllers/site.php on line 6
+[Fri Mar 08 23:51:53 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 23:53:50 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 23:53:55 2013] [error] [client 207.181.235.233] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/patricks/public/keydb.net/public/application/controllers/site.php on line 6
+[Fri Mar 08 23:53:55 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 23:53:59 2013] [error] [client 207.181.235.233] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/patricks/public/keydb.net/public/application/controllers/site.php on line 6
+[Fri Mar 08 23:53:59 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 23:54:57 2013] [error] [client 207.181.235.233] PHP Fatal error:  Call to undefined method CI_Controller::Controller() in /home/patricks/public/keydb.net/public/application/controllers/site.php on line 5
+[Fri Mar 08 23:54:58 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 23:54:58 2013] [error] [client 207.181.235.233] PHP Fatal error:  Call to undefined method CI_Controller::Controller() in /home/patricks/public/keydb.net/public/application/controllers/site.php on line 5
+[Fri Mar 08 23:54:58 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Fri Mar 08 23:54:59 2013] [error] [client 207.181.235.233] PHP Fatal error:  Call to undefined method CI_Controller::Controller() in /home/patricks/public/keydb.net/public/application/controllers/site.php on line 5
+[Fri Mar 08 23:54:59 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Sat Mar 09 03:05:41 2013] [error] [client 207.181.235.233] PHP Fatal error:  Call to undefined function now() in /home/patricks/public/keydb.net/public/application/models/users_model.php on line 37, referer: http://keydb.net/index.php/login/createAccount
+[Sat Mar 09 03:05:41 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Sat Mar 09 04:10:49 2013] [error] [client 66.249.73.156] File does not exist: /home/patricks/public/keydb.net/public/Apollo
+[Sat Mar 09 04:12:20 2013] [error] [client 66.249.73.156] File does not exist: /home/patricks/public/keydb.net/public/Apollo
+[Sat Mar 09 04:26:39 2013] [error] [client 157.55.32.144] File does not exist: /home/patricks/public/keydb.net/public/robots.txt
+[Sat Mar 09 09:39:32 2013] [error] [client 123.125.71.107] File does not exist: /home/patricks/public/keydb.net/public/robots.txt
+[Sat Mar 09 10:26:52 2013] [error] [client 96.254.171.2] script '/home/patricks/public/keydb.net/public/azenv.php' not found or unable to stat
+[Sat Mar 09 11:00:08 2013] [error] [client 100.43.83.134] File does not exist: /home/patricks/public/keydb.net/public/robots.txt
+[Sat Mar 09 11:00:41 2013] [error] [client 100.43.83.134] File does not exist: /home/patricks/public/keydb.net/public/robots.txt
+[Sat Mar 09 11:11:23 2013] [error] [client 207.181.235.233] PHP Fatal error:  Call to undefined method CI_Controller::Controller() in /home/patricks/public/keydb.net/public/application/controllers/site.php on line 5
+[Sat Mar 09 11:12:22 2013] [error] [client 207.181.235.233] PHP Fatal error:  Call to undefined method CI_Controller::Controller() in /home/patricks/public/keydb.net/public/application/controllers/site.php on line 5, referer: http://keydb.net/
+[Sat Mar 09 11:12:22 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Sat Mar 09 11:20:53 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Sat Mar 09 11:23:14 2013] [error] [client 207.181.235.233] PHP Fatal error:  Call to undefined method CI_Controller::Controller() in /home/patricks/public/keydb.net/public/application/controllers/site.php on line 5, referer: http://keydb.net/index.php/login/validateLogin
+[Sat Mar 09 11:23:14 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Sat Mar 09 11:23:34 2013] [error] [client 207.181.235.233] PHP Fatal error:  Call to a member function LoginAuth() on a non-object in /home/patricks/public/keydb.net/public/application/controllers/login.php on line 12, referer: http://keydb.net/index.php/login/validateLogin
+[Sat Mar 09 11:23:35 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Sat Mar 09 11:23:53 2013] [error] [client 207.181.235.233] PHP Fatal error:  Call to undefined method CI_Controller::Controller() in /home/patricks/public/keydb.net/public/application/controllers/site.php on line 5, referer: http://keydb.net/index.php/login/validateLogin
+[Sat Mar 09 11:23:53 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Sat Mar 09 11:24:16 2013] [error] [client 207.181.235.233] PHP Fatal error:  Call to undefined method CI_Controller::Controller() in /home/patricks/public/keydb.net/public/application/controllers/site.php on line 5, referer: http://keydb.net/index.php/login/validateLogin
+[Sat Mar 09 11:24:16 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Sat Mar 09 11:30:17 2013] [error] [client 207.181.235.233] PHP Fatal error:  Call to undefined method CI_Controller::Controller() in /home/patricks/public/keydb.net/public/application/controllers/site.php on line 5
+[Sat Mar 09 11:30:17 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Sat Mar 09 11:34:32 2013] [error] [client 157.55.32.144] File does not exist: /home/patricks/public/keydb.net/public/robots.txt
+[Sat Mar 09 11:36:47 2013] [error] [client 207.181.235.233] PHP Fatal error:  Call to undefined method CI_Controller::Controller() in /home/patricks/public/keydb.net/public/application/controllers/site.php on line 5
+[Sat Mar 09 11:36:47 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Sat Mar 09 11:37:13 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
+[Sat Mar 09 11:41:26 2013] [error] [client 207.181.235.233] File does not exist: /home/patricks/public/keydb.net/public/favicon.ico
