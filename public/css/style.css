@@ -94,13 +94,9 @@ input[type= submit]:hover {
 	width: 750px;
 }
 
-.signup-right {
+.signup {
 	float: left;
-	width: 300px;
-}
-.signup-left {
-	float: left;
-	width: 500px;
+	width: 425px;
 }
 #create-account-large {
 	color: #2a3235;
@@ -114,7 +110,7 @@ input[type= submit]:hover {
 }
 
 .longform input[type= text]{
-	width: 388px;
+	width: 389px;
 }
 
 .longform input[type= submit] {
@@ -123,6 +119,25 @@ input[type= submit]:hover {
 
 .short-inline input[type= text], input[type= password] {
 	float: left;
+}
+
+#forgot-password-link {
+	font-size: .7em;
+	padding: 10px;
+}
+
+#login-error {
+	color: #8f0616;
+	font-size: 1em;
+	padding: 1em;
+}
+
+.error {
+	float: right;
+	width: 290px;
+	color: #8f0616;
+	font-size: 1em;
+	margin: 0 10px 0 0;
 }
 
 
