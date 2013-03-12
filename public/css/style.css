@@ -1,16 +1,46 @@
 * {
 		font-family: Verdana, Geneva, sans-serif;
 		color: #222;
+		margin: 0;
+		padding: 0;
 }
 
 body {
-	background-color: #F2F2F2;
+	background-color: #e9e9e9;
 	
 }
 
 .wrapper {
 	width: 980px;
 	margin: 0 auto;
+	padding: 0;
+}
+
+.img-glass {
+	width: 100%;
+	height: 600px;
+	background-image:url('../images/bg-placeholder.png');
+	background-repeat: no-repeat;
+	background-position: top center;
+	-webkit-box-shadow: 0px 0px 10px #2a3235;
+}
+
+.header-logged-out {
+	background-image:url('../images/marquee-logo-bg.png');
+	width: 100%;
+	height: 94px;
+	background-repeat: no-repeat;
+}
+
+#header-marquee {
+	background-image:url('../images/marquee.png');
+	background-repeat: repeat-x;
+	width: 100%;
+	height: 94px;
+	z-index: 100;
+	box-shadow: 0px 0px 5px #2a3235;
+	-webkit-box-shadow: 0px 0px 5px #2a3235;
+	-moz-box-shadow: 0px 0px 5px #2a3235;
 }
 
 p {
@@ -32,19 +62,23 @@ p {
 	float: right;
 	width: 225px;
 	background: #F9F9F9;
+	margin: 50px 0 0 0;
 	padding: 0em;
-	border: 1px solid #D9D9D9;
+	border: 1px solid #999999;
 	border-radius: 3px;
 	-moz-border-radius: 3px;
-	-webkit-order-radius: 3px;
+	-webkit-border-radius: 3px;
+	
+	
+	
 
 }
 
 #login-form p {
 	color: #333;
 	font-size: 2em;
-	padding: 1em 1em 0 .3em;
-	margin-top: 0;
+	padding: .2em 1em 0 .3em;
+	margin: 0 0 10px 0;
 	border-radius: 3px 3px 0 0;
 	-moz-border-radius: 3px 3px 0 0;
 	-webkit-border-radius: 3px 3px 0 0;
@@ -58,7 +92,9 @@ input[type= text], input[type= password] {
 	width: 180px;
 	margin: 0 0 1em 1em;
 	border: 1px solid #333;
+	border-radius: 5px;
 	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
 	
 }
 
@@ -83,6 +119,12 @@ input[type= submit]:hover {
 		box-shadow: inset 0 1px
 				#92bf25,0 0 0 1px 
 				rgba(0,0,0,0.3);
+		-webkit-box-shadow: inset 0 1px
+				#92bf25,0 0 0 1px 
+				rgba(0,0,0,0.3);
+		-moz-box-shadow: inset 0 1px
+				#92bf25,0 0 0 1px 
+				rgba(0,0,0,0.3);
 }
 
 .login-page-content {
@@ -92,6 +134,7 @@ input[type= submit]:hover {
 #create-account {
 	float: left;
 	width: 750px;
+	margin: 50px 0 0 0;
 }
 
 .signup {
@@ -101,12 +144,12 @@ input[type= submit]:hover {
 #create-account-large {
 	color: #2a3235;
 	font-size: 2.4em;
-	margin: 0 0 0px 0;
+	margin: 0 0 10px 0;
 }
-#create-account-large {
+#create-account-small{
 	color: #2a3235;
-	font-size: 2.4em;
-	margin: 0 0 0px 0;
+	font-size: 1em;
+	margin: 0 0 10px 0;
 }
 
 .longform input[type= text]{
@@ -140,6 +183,18 @@ input[type= submit]:hover {
 	margin: 0 10px 0 0;
 }
 
+.footer {
+	width: 100%;
+
+	
+}
+
+.footer-divider {
+	border: 1px solid #2a3235
+	padding: 50px 0 0 0;
+	width: 100%
+	height: 100px;
+}
 
 
 

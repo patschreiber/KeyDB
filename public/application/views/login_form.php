@@ -1,5 +1,8 @@
+<div class= "img-glass">
+<div id= "header-marquee">
 <div class= "wrapper">
-	<div class= "login-page-content">
+	<div class= "header-logged-out">
+	</div>
 		<div id= "login-form">
 			<p>Sign In</p>
 			<?php
@@ -40,4 +43,5 @@
 			</div>			
 		</div>
 	</div>
+</div>
 </div>
