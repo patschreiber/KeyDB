@@ -4,6 +4,7 @@
 <title>KeyDB</title>
 <link rel= "icon" type= "image/png" href= "http://keydb.net/images/favicon.ico">
 <link rel= "stylesheet" type= "text/css" href= "http://keydb.net/css/style.css">
+<script type="text/javascript" href= "http://keydb.net/js/jquery-1.9.1.js"></script>
 </head>	
 <body>
 	
