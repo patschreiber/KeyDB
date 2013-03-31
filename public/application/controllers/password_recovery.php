@@ -16,4 +16,3 @@ class Password_recovery extends CI_Controller {
 		$this->load->view('templates/content', $data);
 	}
 }
-?>
